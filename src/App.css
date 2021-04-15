@@ -1,0 +1,21 @@
+.not-found {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-form {
+    border: 2px solid rgb(160, 160, 146);
+    padding: 24px;
+    margin: auto;
+    border-radius: 10px;
+    width: 40vw;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
